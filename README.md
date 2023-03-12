@@ -1,3 +1,7 @@
+#Blog Post
+
+https://www.mongodb.com/developer/languages/csharp/use-azure-key-vault-mongodb-client-side-field-level-encryption/
+
 # MongoDB Client-Side Field Level Encryption and Azure Key Vault
 This sample application demonstrates how to integrate Azure Key Vault with MongoDB's Client Side Field Level Encryption in a .NET Core application.
 
